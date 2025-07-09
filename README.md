@@ -77,6 +77,6 @@ This project demonstrates the immediate benefits of investing in data quality an
 
 ---
 
-[View Jupyter Notebook on GitHub](https://github.com/777awsome7/real-estate-data-analysis-viz/blob/main/real_estate_data_analysis.ipynb)
+[View Jupyter Notebook on GitHub](https://github.com/777awsome7/real-estate-data-analysis-viz/blob/750bd768b28bfd9210ff61ee2370b9b7b01b1df7/Real_Estate_Data_Statistical_Analysis_%26_Visualization_.ipynb)
 
 **Thank you for exploring this data analysis journey!**
